@@ -19,31 +19,33 @@ ul.parttwo {
     content: "";
     background-image: url(https://img.icons8.com/officel/64/000000/pdf.png);
     width: 1.5em;
-    height: 1.5em;
+    height: 1.6em;
     display: inline-block;
-    background-size: 1.5em;
+    background-size: 1.6em;
     background-repeat: no-repeat;
-    background-position-y: .2em;
+    vertical-align: middle;
 }
 
 [xls]:after {
     content: "";
     background-image: url(https://img.icons8.com/dusk/64/000000/ms-excel.png);
     width: 1.5em;
-    height: 1.5em;
+    height: 1.6em;
     display: inline-block;
-    background-size: 1.5em;
+    background-size: 1.6em;
     background-repeat: no-repeat;
+    vertical-align: middle;
 }
 
 [doc]:after {
     content: "";
     background-image: url(https://img.icons8.com/dusk/64/000000/ms-word.png);
     width: 1.5em;
-    height: 1.5em;
+    height: 1.6em;
     display: inline-block;
-    background-size: 1.5em;
+    background-size: 1.6em;
     background-repeat: no-repeat;
+    vertical-align: middle;
 }
 
 ul.partthree {
